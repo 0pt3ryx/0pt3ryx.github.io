@@ -21,11 +21,11 @@ sass:
   style: compressed
 
 # Site Data
-url: # the base hostname & protocol for your site, e.g. http://example.com
+url: https://0pt3ryx.github.io
 baseurl: # the subpath of your site, e.g. /blog
-title: Simple Texture
-description: "A gem-based responsive simple texture styled Jekyll theme."
-keywords: 'jekyll,theme,gem-based,blog'
+title: The Nest
+description: "Desc."
+keywords: 'Keywords'
 author:
   name:
   job_title:
@@ -35,7 +35,7 @@ author:
     - name: facebook
       url:
     - name: github
-      url: https://github.com/yizeng/jekyll-theme-simple-texture
+      url: https://0pt3ryx.github.io
     - name: instagram
       url:
     - name: linkedin
